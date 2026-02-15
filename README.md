@@ -1,7 +1,7 @@
 # 🏠 House Price Prediction using Machine Learning
 
 ## 📌 Overview
-This project predicts house prices based on various property features using machine learning regression techniques.
+This project predicts house prices based on different property features using machine learning regression techniques.
 
 ## 🧠 What I Did
 - Loaded and explored the dataset  
